@@ -1,7 +1,8 @@
-# sin in \sign up form
-This is a simple sign in and sign up form with a stylish transition between the two. 
-It uses HTML and CSS to create a smooth user experience.
-# program in HTML
+# technologies used
+  * HTML
+  * CSS
+
+# program
 <!DOCTYPE html>
 <html lang="en">
 <head>
